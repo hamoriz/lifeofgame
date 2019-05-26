@@ -1,0 +1,11 @@
+/hdd/home/git_repo/C#/Conways Game of Life cs/bin/Debug/Conways Game of Life cs.exe.config
+/hdd/home/git_repo/C#/Conways Game of Life cs/bin/Debug/Conways Game of Life cs.exe
+/hdd/home/git_repo/C#/Conways Game of Life cs/bin/Debug/Conways Game of Life cs.pdb
+/hdd/home/git_repo/C#/Conways Game of Life cs/obj/Debug/Conways Game of Life cs.csprojAssemblyReference.cache
+/hdd/home/git_repo/C#/Conways Game of Life cs/obj/Debug/Conways_Game_of_Life_cs.Form1.resources
+/hdd/home/git_repo/C#/Conways Game of Life cs/obj/Debug/Conways_Game_of_Life_cs.frmProgress.resources
+/hdd/home/git_repo/C#/Conways Game of Life cs/obj/Debug/Conways_Game_of_Life_cs.Properties.Resources.resources
+/hdd/home/git_repo/C#/Conways Game of Life cs/obj/Debug/Conways Game of Life cs.csproj.GenerateResource.cache
+/hdd/home/git_repo/C#/Conways Game of Life cs/obj/Debug/Conways Game of Life cs.csproj.CoreCompileInputs.cache
+/hdd/home/git_repo/C#/Conways Game of Life cs/obj/Debug/Conways Game of Life cs.exe
+/hdd/home/git_repo/C#/Conways Game of Life cs/obj/Debug/Conways Game of Life cs.pdb
